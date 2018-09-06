@@ -51,6 +51,7 @@
     <Compile Include="Core\IRepository.cs" />
     <Compile Include="Core\IUnitOfWork.cs" />
     <Compile Include="Persistence\Repository.cs" />
+    <Compile Include="Persistence\UnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

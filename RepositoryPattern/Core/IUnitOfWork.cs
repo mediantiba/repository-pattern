@@ -6,6 +6,6 @@ namespace RepositoryPattern.Core
     {
         // Add interfaces for other repositories here.
 
-        int Complete();
+        void Complete();
     }
 }
